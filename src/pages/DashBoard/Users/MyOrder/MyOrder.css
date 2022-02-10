@@ -1,0 +1,10 @@
+.background{
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-color: rgba(0, 0, 0, 0.424);
+   background-blend-mode: overlay;
+}
+.orderImage{
+    height: 300px !important; 
+}

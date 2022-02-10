@@ -1,0 +1,17 @@
+.review-image{
+    height: 150px;
+    width: 100%;
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    margin-top: -70px;
+    transition: transform .5s ease-in-out;
+}
+.parent:hover .profile{
+transform: scale(1.2);
+}
+.blog{
+    width: 350px;
+    height: 350px;
+}

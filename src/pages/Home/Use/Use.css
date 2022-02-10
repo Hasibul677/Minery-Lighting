@@ -1,0 +1,16 @@
+.use-Image{
+    width: 100%;
+    height: 300px;
+    transition: transform .8s ease-in-out;
+}
+.use-Image:hover{
+    transform: scaleY(1.1);
+}
+.use-middle-Image{
+    width: 100%;
+    height: 610px;
+    transition: transform .8s ease-in-out;
+}
+.use-middle-Image:hover{
+   transform: scaleY(1.1);
+}
